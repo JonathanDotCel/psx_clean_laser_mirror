@@ -10,8 +10,7 @@ The usual stuff:
 - I'm not responsible for damages to your PS1.
 - Unplug the playstation to avoid a nasty shock from the PSU.
 
-Thanks to Matthew Read for originally showing me this.
-Thanks to AirIsOptional for one or two of the pics.
+Thanks to Matthew Read for originally showing me this, to AirIsOptional for one or two of the pics, and to Rama for some additional information.
 
 
 # 1 - Shell
@@ -173,17 +172,18 @@ Make sure you're not pinching the ribbon in the top panel when you put everythin
 Once it's back together, find this guy:
 ![image](pics/bonus0.png)
 
-Very small turns (like an 8th of a turn or so), may dramatically improve CD reading.
+Very small turns (1/12th or so), may dramatically improve CD reading. Rama suggests 12 o'clock for a laser in really good condition, but that most nowadays will require around 1 or 2. Max 3.
 (Remember to unplug the console).
 
 There's a caveat, however.
 - If you tune it really well for black discs, the performance will suffer on CDRs.
 - If you tune it reall well for CDRs, the performance will suffer on black discs.
 
+The less noise the better. If it's squealing, dial it back a bit.
 It should reduce overlal wear, but your mileage may vary.
 
 ### Hint!
-Maybe grab a multimeter and record the start position.
+There's a chance that the voltage/current from a multimeter could damage the diode. As such, it might not be best to measure it that way. Instead there's an obvious center notch at 12 o'clock, or a flat bit at the bottom.
 
 
 
