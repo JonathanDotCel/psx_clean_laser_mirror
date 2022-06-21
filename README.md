@@ -28,12 +28,14 @@ Unplug the PSX
 # 2 - Unplug the CD mechanism
 
 ![image](pics/step0a.jpg)
+(Ribbon calbe on the left, power on the right)
+
+![image](pics/step0b.jpg)
+(Ribbon cable removed, power cable at the top)
 
 ## Ribbon Cable:
 Remove the ribon cable firmly and evenly, straight up.
 Push down on the plastic connector with a flat screwdriver, plastic knife etc if you're worried about yanking it out.
-
-![image](pics/step0b.jpg)
 
 ## Motor Cable:
 If you yank at this you could tear it off the board!
@@ -84,6 +86,7 @@ To Here:
 
 
 Some scribbles from discord:
+
 ![image](pics/step10c.png)
 ![image](pics/step10d.png)
 
