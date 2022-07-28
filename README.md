@@ -10,7 +10,7 @@ The usual stuff:
 - I'm not responsible for damages to your PS1.
 - Unplug the playstation to avoid a nasty shock from the PSU.
 
-Thanks to Matthew Read for originally showing me this, to AirIsOptional for one or two of the pics, and to Rama for some additional information.
+Thanks to Matthew Read for originally showing me this, to AirIsOptional for one or two of the pics, and to Rama for some additional information. If you need further help, feel free to hop on Discord: [![Discord](https://img.shields.io/discord/642647820683444236)](https://discord.gg/QByKPpH)
 
 
 # 1 - Shell
@@ -28,7 +28,7 @@ Unplug the PSX
 # 2 - Unplug the CD mechanism
 
 ![image](pics/step0a.jpg)
-(Ribbon calbe on the left, power on the right)
+(Ribbon cable on the left, power on the right)
 
 ![image](pics/step0b.jpg)
 (Ribbon cable removed, power cable at the top)
@@ -136,7 +136,7 @@ Remove it very gently, starting from the far side, then nearest, then hinge it u
 There's a knobbly bit on the left, slide it off to the left.
 ![image](pics/step16d.png)
 
-This is the nobbly bit up close, from the previous pic.
+This is the knobbly bit up close, from the previous pic.
 ![image](pics/step16e.png)
 
 Done!
@@ -187,21 +187,3 @@ It should reduce overlal wear, but your mileage may vary.
 
 ### Hint!
 There's a chance that the voltage/current from a multimeter could damage the diode. As such, it might not be best to measure it that way. Instead there's an obvious center notch at 12 o'clock, or a flat bit at the bottom.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
