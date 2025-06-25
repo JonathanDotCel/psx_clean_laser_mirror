@@ -9,6 +9,7 @@ The usual stuff:
 - I'm not responsible for you hurting yourself.
 - I'm not responsible for damages to your PS1.
 - Unplug the playstation to avoid a nasty shock from the PSU.
+- #9 is not covered by the CC license
 
 Thanks to Matthew Read for originally showing me this, to AirIsOptional for one or two of the pics, and to Rama for some additional information. If you need further help, feel free to hop on Discord: [![Discord](https://img.shields.io/discord/642647820683444236)](https://discord.gg/QByKPpH)
 
